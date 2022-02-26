@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview of Election Audit
-This is voter result from an election held within three counties from Colorado
+This is audit from a tabulated results from a US election held within a Congressional precinct in Colorado
 
 ## Election-Audit Results
 -	There were 369,711 casted votes to this election
@@ -17,5 +17,5 @@ This is voter result from an election held within three counties from Colorado
 -	The winner of the election is Diana DeGette, with 272,892 total votes, 73.8% of the votes
 
 ## Election-Audit Summary
-This script can be used for other election purposes. Using the same dataset from other counties. They do not have to be from these 3 counties, but other counties in the state of Colorado. The script could also be modified to find the winning candidate from each county instead of all three counties. We can also modify the script to add all other candidates from other types of elections to include local and regional elections and give each precinct or cities areas.
+This script can be used for not just this Congressional district, but Senatorial districts and local elections. They do not have to be from these 3 counties, but other counties in the state of Colorado.  Modifications to the script could also be modified to find the winning candidate from each county. We could see if a candidate performed better in one county over another. We can also modify the script to add all other candidates from other types of elections to include local and regional elections and give each precinct or cities areas.
 
